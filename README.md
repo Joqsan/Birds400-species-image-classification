@@ -6,7 +6,7 @@
 
 <br></br>
 
-**MIPT (spring 2022).**
+**SberTech, MIPT (spring 2022).**
 
 --- 
 
